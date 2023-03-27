@@ -1,2 +1,2 @@
 CoddingChallengeSergioAndGabriel
-codding challenge html css and java
+codding challenge html css
